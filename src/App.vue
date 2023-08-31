@@ -1,8 +1,9 @@
-<script setup>
-const name = 'Vue 3';
-</script>
-
 <template>
-   <!-- interpolación de texto -->
-  <h1>Hola {{ name }}!</h1>
+  <div>
+    <MiComponente />
+  </div>
 </template>
+
+<script setup>
+import MiComponente from './components/MiComponente.vue';
+</script>
