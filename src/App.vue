@@ -11,6 +11,7 @@
   <Vfor />
   <Vfor2 />
   <Vfor2Objetos />
+  <VforVif />
 </template>
 
 <script setup>
@@ -24,4 +25,5 @@ import Vshow from './components/Vshow.vue';
 import Vfor from './components/Vfor.vue';
 import Vfor2 from './components/Vfor2.vue';
 import Vfor2Objetos from './components/Vfor2Objetos.vue';
+import VforVif from './components/VforVif.vue';
 </script>
