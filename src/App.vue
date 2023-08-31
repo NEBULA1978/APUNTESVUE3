@@ -8,6 +8,9 @@
   <FirecivasVIELSE />
   <FirecivasVIELSEINDECISO />
   <Vshow />
+  <Vfor />
+  <Vfor2 />
+  <Vfor2Objetos />
 </template>
 
 <script setup>
@@ -18,4 +21,7 @@ import FirecivasVIELSE from './components/FirecivasVIELSE.vue';
 import FirecivasVIF from './components/FirecivasVIF.vue';
 import FirecivasVIELSEINDECISO from './components/FirecivasVIELSEINDECISO.vue';
 import Vshow from './components/Vshow.vue';
+import Vfor from './components/Vfor.vue';
+import Vfor2 from './components/Vfor2.vue';
+import Vfor2Objetos from './components/Vfor2Objetos.vue';
 </script>
