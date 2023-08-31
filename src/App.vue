@@ -7,6 +7,7 @@
   <FirecivasVIF />
   <FirecivasVIELSE />
   <FirecivasVIELSEINDECISO />
+  <Vshow />
 </template>
 
 <script setup>
@@ -16,4 +17,5 @@ import usoExpresionJavascript from './components/usoExpresionJavascript.vue';
 import FirecivasVIELSE from './components/FirecivasVIELSE.vue';
 import FirecivasVIF from './components/FirecivasVIF.vue';
 import FirecivasVIELSEINDECISO from './components/FirecivasVIELSEINDECISO.vue';
+import Vshow from './components/Vshow.vue';
 </script>
